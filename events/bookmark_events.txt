@@ -1,0 +1,24 @@
+﻿
+namespace = bookmark
+
+
+###############################
+# 867 - WRATH OF THE NORTHMEN #
+###############################
+
+###Emptying the land
+bookmark.0001 = {
+	type = character_event
+	hidden = yes
+	
+	trigger = {
+		this = character:test1
+		is_ai = yes
+	}
+
+	immediate = {
+		death = {
+			death_reason = death_hunting_accident
+		}
+	}
+}
