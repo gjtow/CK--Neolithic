@@ -1,0 +1,20 @@
+﻿action_exclave_independence_possible = {
+	type = action
+	is_dangerous = yes
+	combine_into_one = yes
+
+	check_create_action = {
+		every_in_list = {
+			variable = exclave_counties
+			try_create_important_action = {
+				important_action_type = action_exclave_independence_possible
+				actor = root
+				landed_title = this
+			}
+		}
+	}
+	
+	effect = {
+		pan_camera_to_title = scope:landed_title
+	}
+}

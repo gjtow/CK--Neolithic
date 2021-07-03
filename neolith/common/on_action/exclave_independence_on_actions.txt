@@ -1,0 +1,7 @@
+﻿#NOTE: Event is not integrated into this on_action as setting up an effect causes incompatibility issues with other mods
+#while triggering an event does not cause any incompatbility issues.
+quarterly_playable_pulse = {
+	events = {
+		exclave_trigger.1 #Fire an event that checks if there are any provinces that need to be independent due to exclave independence
+	}
+}

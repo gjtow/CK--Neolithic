@@ -1,0 +1,634 @@
+﻿############################################################################
+e_no_king = {
+	color = { 0 0 0 }
+	color2 = { 0 0 0 }
+	definite_form = yes
+	
+	capital = c_dublin
+	
+	k_meath = {
+		color = { 49 249 72 }
+		color2 = { 255 255 255 }
+		
+		capital = c_dublin
+		
+		d_dublin = {
+			color = { 55 250 85 }
+			color2 = { 255 255 255 }
+			
+			capital = c_dublin
+
+			c_dublin = {
+				color = { 55 250 85 }
+				color2 = { 255 255 255 }
+				
+				b_dublin = {
+					province = 28
+
+					color = { 55 250 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_wicklow = {
+				color = { 55 250 85 }
+				color2 = { 255 255 255 }
+				
+				b_wicklow = {
+					province = 29
+
+					color = { 55 250 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_kildare = {
+				color = { 55 250 85 }
+				color2 = { 255 255 255 }
+				
+				b_kildare = {
+					province = 30
+
+					color = { 55 250 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_trim = {
+				color = { 55 250 85 }
+				color2 = { 255 255 255 }
+				
+				b_trim = {
+					province = 31
+
+					color = { 55 250 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_drogheda = {
+				color = { 55 250 85 }
+				color2 = { 255 255 255 }
+				
+				b_drogheda = {
+					province = 32
+
+					color = { 55 250 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_athlone = {
+			color = { 35 122 49 }
+			color2 = { 255 255 255 }
+			
+			capital = c_athlone
+
+			c_athlone = {
+				color = { 35 122 49 }
+				color2 = { 255 255 255 }
+
+				b_athlone = {
+					province = 34
+
+					color = { 35 122 49 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_birr = {
+				color = { 35 122 49 }
+				color2 = { 255 255 255 }
+
+				b_birr = {
+					province = 33
+
+					color = { 35 122 49 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_uisneach = {
+				color = { 35 122 49 }
+				color2 = { 255 255 255 }
+
+				b_uisneach = {
+					province = 36
+
+					color = { 35 122 49 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_ulster = {
+		color = { 5 222 31 }
+		color2 = { 255 255 255 }
+		
+		capital = c_downpatrick
+
+		d_ulster = {
+			color = { 25 230 35 }
+			color2 = { 255 255 255 }
+			
+			capital = c_downpatrick
+			
+			c_downpatrick = {
+				color = { 25 230 35 }
+				color2 = { 0 150 0 }
+				
+				b_downpatrick = {
+					province = 15
+
+					color = { 25 230 35 }
+					color2 = { 255 255 255 }
+				}	
+			}
+			c_slemish = {
+				color = { 25 230 35 }
+				color2 = { 0 150 0 }
+				
+				b_slemish = {
+					province = 13
+
+					color = { 25 230 35 }
+					color2 = { 255 255 255 }
+				}	
+			}
+			c_carrickfergus = {
+				color = { 25 230 35 }
+				color2 = { 0 150 0 }
+				
+				b_carrickfergus = {
+					province = 14
+
+					color = { 25 230 35 }
+					color2 = { 255 255 255 }
+				}	
+			}
+		}
+
+		d_oriel = {
+			color = { 30 180 45 }
+			color2 = { 255 255 255 }
+			
+			capital = c_dundalks
+			
+			c_dundalk = {
+				color = { 30 180 45 }
+				color2 = { 230 180 0 }
+
+				b_dundalk = {
+					province = 18
+
+					color = { 30 180 45 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_armagh = {
+				color = { 30 180 45 }
+				color2 = { 230 180 0 }
+
+				b_armagh = {
+					province = 17
+
+					color = { 30 180 45 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ardee = {
+				color = { 30 180 45 }
+				color2 = { 230 180 0 }
+
+				b_ardee = {
+					province = 19
+
+					color = { 30 180 45 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_ailech = {
+			color = { 66 157 22 }
+			color2 = { 255 255 255 }
+			
+			capital = c_ardee
+			
+			c_donegal = {
+				color = { 66 157 22 }
+				color2 = { 255 255 255 }
+				
+				b_donegal = {
+					province = 9
+
+					color = { 66 157 22 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_raphoe = {
+				color = { 66 157 22 }
+				color2 = { 255 255 255 }
+				
+				b_raphoe = {
+					province = 10
+					
+					color = { 66 157 22 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_fahan = {
+				color = { 66 157 22 }
+				color2 = { 255 255 255 }
+				
+				b_fahan = {
+					province = 11
+					
+					color = { 66 157 22 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_derry = {
+				color = { 66 157 22 }
+				color2 = { 255 255 255 }
+				
+				b_derry = {
+					province = 12
+					
+					color = { 66 157 22 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_connacht = {
+		color = { 43 229 108 }
+		color2 = { 255 255 255 }
+		
+		capital = c_galway
+
+		d_connacht = {
+			color = { 45 230 70 }
+			color2 = { 255 255 255 }			
+			
+			capital = c_galway
+
+			c_galway = {
+				color = { 45 230 70 }
+				color2 = { 255 255 255 }
+			
+				b_galway = {
+					province = 20
+
+					color = { 45 230 70 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_castlebar = {
+				color = { 45 230 70 }
+				color2 = { 255 255 255 }
+			
+				b_castlebar = {
+					province = 21
+
+					color = { 45 230 70 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_sligo = {
+				color = { 45 230 70 }
+				color2 = { 255 255 255 }
+			
+				b_sligo = {
+					province = 22
+
+					color = { 45 230 70 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_athenry = {
+				color = { 45 230 70 }
+				color2 = { 255 255 255 }
+			
+				b_athenry = {
+					province = 23
+
+					color = { 45 230 70 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_breifne = {
+			color = { 40 230 65 }
+			color2 = { 255 255 255 }			
+			
+			capital = c_dromahair
+
+			c_dromahair = {
+				color = { 40 230 65 }
+				color2 = { 255 255 255 }
+				
+				b_dromahair = {
+					province = 24
+
+					color = { 40 230 65 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_belcoo = {
+				color = { 40 230 65 }
+				color2 = { 255 255 255 }
+				
+				b_belcoo = {
+					province = 25
+
+					color = { 40 230 65 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_longford = {
+				color = { 40 230 65 }
+				color2 = { 255 255 255 }
+				
+				b_longford = {
+					province = 26
+
+					color = { 40 230 65 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cavan = {
+				color = { 40 230 65 }
+				color2 = { 255 255 255 }
+				
+				b_cavan = {
+					province = 27
+
+					color = { 40 230 65 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_leinster = {
+		color = { 85 211 27 }
+		color2 = { 255 255 255 }
+		
+		capital = c_wexford
+		
+		d_leinster = {
+			color = { 65 210 85 }
+			color2 = { 255 255 255 }
+			
+			capital = c_wexford
+			
+			c_wexford = {
+				color = { 65 210 85 }
+				color2 = { 255 255 255 }
+				
+				b_wexford = {
+					province = 37
+					
+					color = { 65 210 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_enniscorthy = {
+				color = { 65 210 85 }
+				color2 = { 255 255 255 }
+				
+				b_enniscorthy = {
+					province = 38
+					
+					color = { 65 210 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ferns = {
+				color = { 65 210 85 }
+				color2 = { 255 255 255 }
+				
+				b_ferns = {
+					province = 39
+					
+					color = { 65 210 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_carlow = {
+				color = { 65 210 85 }
+				color2 = { 255 255 255 }
+				
+				b_carlow = {
+					province = 40
+					
+					color = { 65 210 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_ossory = {
+			color = { 60 210 80 }
+			color2 = { 255 255 255 }
+			
+			capital = c_gowran
+			
+			c_gowran = {
+				color = { 60 210 80 }
+				color2 = { 255 255 255 }
+				
+				b_gowran = {
+					province = 43
+					
+					color = { 60 210 80 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_kilkenny = {
+				color = { 60 210 80 }
+				color2 = { 255 255 255 }
+				
+				b_kilkenny = {
+					province = 41
+					
+					color = { 60 210 80 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_athy = {
+				color = { 60 210 80 }
+				color2 = { 255 255 255 }
+				
+				b_athy = {
+					province = 42
+
+					color = { 60 210 80 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_carrick = {
+				color = { 60 210 80 }
+				color2 = { 255 255 255 }
+				
+				b_carrick = {
+					province = 44
+
+					color = { 60 210 80 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_munster = {
+		color = { 16 157 12 }
+		color2 = { 255 255 255 }
+		
+		capital = c_limerick
+		
+		d_thomond = {
+			color = { 90 221 111 }
+			color2 = { 205 0 25 }
+			
+			capital = c_limerick
+			
+			c_limerick = {
+				color = { 90 221 111 }
+				color2 = { 255 255 255 }
+
+				b_limerick = {
+					province = 45
+
+					color = { 90 221 111 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ennis = {
+				color = { 90 221 111 }
+				color2 = { 255 255 255 }
+
+				b_ennis = {
+					province = 46
+					
+					color = { 90 221 111 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_nenagh = {
+				color = { 90 221 111 }
+				color2 = { 255 255 255 }
+
+				b_nenagh = {
+					province = 47
+					
+					color = { 90 221 111 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_roscrea = {
+				color = { 90 221 111 }
+				color2 = { 255 255 255 }
+
+				b_roscrea = {
+					province = 48
+					
+					color = { 90 221 111 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_ormond = {
+			color = { 95 221 121 }
+			color2 = { 205 0 25 }
+			
+			capital = c_waterford
+			
+			c_waterford = {
+				color = { 95 221 121 }
+				color2 = { 255 255 255 }
+				
+				b_waterford = {
+					province = 49
+
+					color = { 95 221 121 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_emly = {
+				color = { 95 221 121 }
+				color2 = { 255 255 255 }
+				
+				b_emly = {
+					province = 50
+					
+					color = { 95 221 121 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_clonmel = {
+				color = { 95 221 121 }
+				color2 = { 255 255 255 }
+				
+				b_clonmel = {
+					province = 51
+					
+					color = { 95 221 121 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_desmond = {
+			color = { 100 221 90 }
+			color2 = { 205 0 25 }
+			
+			capital = c_tralee
+			
+			c_tralee = {
+				color = { 100 221 90 }
+				color2 = { 255 255 255 }
+				
+				b_tralee = {
+					province = 52
+
+					color = { 100 221 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cork = {
+				color = { 100 221 90 }
+				color2 = { 255 255 255 }
+				
+				b_cork = {
+					province = 53
+					
+					color = { 100 221 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_kinsale = {
+				color = { 100 221 90 }
+				color2 = { 255 255 255 }
+				
+				b_kinsale = {
+					province = 54
+
+					color = { 100 221 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_baltimore = {
+				color = { 100 221 90 }
+				color2 = { 255 255 255 }
+				
+				b_baltimore = {
+					province = 16
+
+					color = { 100 221 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+}

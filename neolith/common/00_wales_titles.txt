@@ -1,0 +1,480 @@
+﻿############################################################################
+e_wales = {
+	color = { 135 25 3 }
+	color2 = { 255 255 255 }
+	
+	capital = c_cardiff
+	
+	k_gwynedd = {
+		color = { 100 0 0 }
+		color2 = { 255 255 255 }
+		
+		capital = c_cardigan
+		
+		d_cardiganshire = {
+			color = { 110 10 0 }
+			color2 = { 255 255 255 }
+			
+			capital = c_cardigan
+			
+			c_cardigan = {
+				color = { 110 10 0 }
+				color2 = { 255 255 255 }
+
+				b_cardigan = {
+					province = 1657
+
+					color = { 110 10 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_aberystwyth = {
+				color = { 110 10 0 }
+				color2 = { 255 255 255 }
+
+				b_aberystwyth = {
+					province = 1658
+
+					color = { 110 10 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_merioneth = {
+			color = { 105 20 20 }
+			color2 = { 255 255 255 }
+			
+			capital = c_dlgellau
+			
+			c_dolgellau = {
+				color = { 105 20 20 }
+				color2 = { 255 255 255 }
+
+				b_dolgellau = {
+					province = 1665
+
+					color = { 105 20 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_corwen = {
+				color = { 105 20 20 }
+				color2 = { 255 255 255 }
+
+				b_corwen = {
+					province = 1666
+
+					color = { 105 20 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_caernarfonshire = {
+			color = { 90 25 0 }
+			color2 = { 255 255 255 }
+			
+			capital = c_caernarfon
+			
+			c_caernarfon = {
+				color = { 90 25 0 }
+				color2 = { 255 255 255 }
+				
+				b_caernarfon = {
+					province = 1667
+
+					color = { 90 25 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_llyn = {
+				color = { 90 25 0 }
+				color2 = { 255 255 255 }
+				
+				b_llyn = {
+					province = 1668
+
+					color = { 90 25 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_caernarfon = {
+				color = { 90 25 0 }
+				color2 = { 255 255 255 }
+				
+				b_llandudno = {
+					province = 1669
+
+					color = { 90 25 0 }
+					color2 = { 255 255 255 }	
+				}
+			}
+		}
+		
+		d_angelsey = {
+			color = { 85 0 0 }
+			color2 = { 255 255 255 }
+			
+			capital = c_yns_mon
+			
+			c_yns_mon = {
+				color = { 85 0 0 }
+				color2 = { 255 255 255 }
+
+				b_yns_mon = {
+					province = 1673
+
+					color = { 85 0 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_holyhead = {
+				color = { 85 0 0 }
+				color2 = { 255 255 255 }
+
+				b_holyhead = {
+					province = 1674
+
+					color = { 85 0 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_denbighshire = {
+			color = { 125 0 10 }
+			color2 = { 255 255 255 }
+			
+			capital = c_denbigh
+			
+			c_denbigh = {
+				color = { 125 0 10 }
+				color2 = { 255 255 255 }
+				
+				b_denbigh = {
+					province = 1670
+
+					color = { 125 0 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_wrexham = {
+				color = { 125 0 10 }
+				color2 = { 255 255 255 }
+				
+				b_wrexham = {
+					province = 1671
+
+					color = { 125 0 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ruthin = {
+				color = { 125 0 10 }
+				color2 = { 255 255 255 }
+				
+				b_ruthin = {
+					province = 1672
+					
+					color = { 125 0 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_powys = {
+		color = { 115 30 30 }
+		color2 = { 255 255 255 }
+		
+		capital = c_welshpool
+		
+		d_maldwyn = {
+			color = { 110 25 25 }
+			color2 = { 255 255 255 }
+			
+			capital = c_welshpool
+
+			c_welshpool = {
+				color = { 110 25 25 }
+				color2 = { 255 255 255 }
+				
+				b_welshpool = {
+					province = 1663
+
+					color = { 110 25 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_newtown = {
+				color = { 110 25 25 }
+				color2 = { 255 255 255 }
+				
+				b_newtown = {
+					province = 1664
+
+					color = { 110 25 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_sir_faesyfed = {
+			color = { 95 30 30 }
+			color2 = { 255 255 255 }
+			
+			capital = c_llandrindod
+
+			c_llandrindod = {
+				color = { 95 30 30 }
+				color2 = { 255 255 255 }
+
+				b_llandrindod = {
+					province = 1661
+
+					color = { 95 30 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_rhayader = {
+				color = { 95 30 30 }
+				color2 = { 255 255 255 }
+
+				b_rhayader = {
+					province = 1662
+
+					color = { 95 30 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_hereford = {
+			color = { 110 45 35 }
+			color2 = { 255 255 255 }
+			
+			capital = c_hereford
+
+			c_hereford = {
+				color = { 110 45 35 }
+				color2 = { 255 255 255 }
+				
+				b_hereford = {
+					province = 1632
+
+					color = { 110 45 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_wigmore = {
+				color = { 110 45 35 }
+				color2 = { 255 255 255 }
+				
+				b_wigmore = {
+					province = 1633
+
+					color = { 110 45 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_clifford = {
+				color = { 110 45 35 }
+				color2 = { 255 255 255 }
+				
+				b_clifford = {
+					province = 1634
+
+					color = { 110 45 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+
+	k_glamorgan = {
+		color = { 240 167 91 }
+		color2 = { 255 255 255 }
+		
+		capital = c_cardiff
+		
+		d_carmarthenshire = {
+			color = { 245 170 100 }
+			color2 = { 255 0 0 }
+			
+			capital = c_carmarthen
+			
+			c_carmarthen = {
+				color = { 245 170 100 }
+				color2 = { 255 255 255 }
+			
+				b_carmarthen = {
+					province = 1652
+
+					color = { 245 170 100 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_llandovery = {
+				color = { 245 170 100 }
+				color2 = { 255 255 255 }
+			
+				b_llandovery = {
+					province = 1653
+
+					color = { 245 170 100 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_pembrokeshire = {
+			color = { 210 140 90 }
+			color2 = { 255 0 0 }
+			
+			capital = c_pembroke
+
+			c_pembroke = {
+				color = { 210 140 90 }
+				color2 = { 255 255 255 }
+
+				b_pembroke = {
+					province = 1654
+
+					color = { 210 140 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_st_davids = {
+				color = { 210 140 90 }
+				color2 = { 255 255 255 }
+
+				b_st_davids = {
+					province = 1655
+
+					color = { 210 140 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_fishguard = {
+				color = { 210 140 90 }
+				color2 = { 255 255 255 }
+
+				b_fishguard = {
+					province = 1656
+
+					color = { 210 140 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_glamorgan = {
+			color = { 220 190 145 }
+			color2 = { 255 0 0 }
+			
+			capital = c_cardiff
+
+			c_cardiff = {
+				color = { 220 190 145 }
+				color2 = { 255 0 0 }
+
+				b_cardiff = {
+					province = 1649
+
+					color = { 220 190 145 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_swansea = {
+				color = { 220 190 145 }
+				color2 = { 255 0 0 }
+
+				b_swansea = {
+					province = 1650
+
+					color = { 220 190 145 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_caerphilly = {
+				color = { 220 190 145 }
+				color2 = { 255 0 0 }
+
+				b_caerphilly = {
+					province = 1651
+
+					color = { 220 190 145 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_brecknockshire = {
+			color = { 215 150 115 }
+			color2 = { 255 0 0 }
+			
+			capital = c_brecon
+
+			c_brecon = {
+				color = { 215 150 115 }
+				color2 = { 255 255 255 }
+
+				b_brecon = {
+					province = 1659
+
+					color = { 215 150 115 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_talgarth = {
+				color = { 215 150 115 }
+				color2 = { 255 255 255 }
+
+				b_talgarth = {
+					province = 1660
+
+					color = { 215 150 115 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+
+	k_gwent = {
+		color = { 210 165 60 }
+		color2 = { 255 255 255 }
+		
+		capital = c_casnewydd
+		
+		d_monmouthshire = {
+			color = { 210 165 60 }
+			color2 = { 255 0 0 }
+			
+			capital = c_casnewydd
+
+			c_casnewydd = {
+				color = { 210 165 60 }
+				color2 = { 255 255 255 }
+
+				b_casnewydd = {
+					province = 1630
+
+					color = { 210 165 60 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_monmouth = {
+				color = { 210 165 60 }
+				color2 = { 255 255 255 }
+
+				b_monmouth = {
+					province = 1631
+
+					color = { 210 165 60 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,55 @@
+
+			c_waqisa = {
+				color = { 52 144 20 }
+				color2 = { 255 255 255 }
+				
+				b_waqisa = {
+					province = 6000
+					
+					color = { 52 144 20 }
+					color2 = { 255 255 255 }
+				}
+				b_as-subia = {
+					province = 5999
+					
+					color = { 52 144 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_safata = {
+				color = { 36 145 23 }
+				color2 = { 255 255 255 }
+				
+				b_safata = {
+					province = 5991
+					
+					color = { 36 145 23 }
+					color2 = { 255 255 255 }
+				}
+				b_ain_at-tamr = {
+					province = 5990
+					
+					color = { 36 145 23 }
+					color2 = { 255 255 255 }
+				}
+				b_khaffan = {
+					province = 5996
+					
+					color = { 36 145 23 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+				b_al-udhaib = {
+					province = 5995
+					
+					color = { 38 135 28 }
+					color2 = { 255 255 255 }
+				}
+				b_al-qara = {
+					province = 5998
+					
+					color = { 38 135 28 }
+					color2 = { 255 255 255 }
+				}

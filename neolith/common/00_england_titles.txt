@@ -1,0 +1,1964 @@
+﻿############################################################################
+e_england = {
+	color = { 202 26 26 }
+	color2 = { 255 255 255 }
+	
+	capital = c_london
+	
+	k_bedford = { # london
+		color = { 241 15 15 }
+		color2 = { 255 255 255 }
+		
+		capital = c_middlesex
+		
+		d_middlesex = {
+			color = { 230 5 5 }
+			color2 = { 255 255 255 }
+			
+			capital = c_london
+			
+			c_london = {
+				color = { 230 5 5 }
+				color2 = { 255 255 255 }
+				
+				b_london = {
+					province = 1527
+
+					color = { 230 5 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_woxbridge = {
+				color = { 230 5 5 }
+				color2 = { 255 255 255 }
+				
+				b_woxbrigge = {
+					province = 1528
+
+					color = { 230 5 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_gore = {
+				color = { 230 5 5 }
+				color2 = { 255 255 255 }
+				
+				b_gore = {
+					province = 1529
+
+					color = { 230 5 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_brentford = {
+				color = { 230 5 5 }
+				color2 = { 255 255 255 }
+				
+				b_brentford = {
+					province = 1530
+
+					color = { 230 5 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_southwark = {
+				color = { 230 5 5 }
+				color2 = { 255 255 255 }
+				
+				b_southwark = {
+					province = 1526
+					color = { 230 5 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_essex = {
+			color = { 220 20 30 }
+			color2 = { 255 255 255 }
+			
+			capital = c_colchester
+			
+			c_colchester = {
+				color = { 220 20 30 }
+				color2 = { 255 255 255 }
+				
+				b_colchester = {
+					province = 1514
+
+					color = { 220 20 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_maldon = {
+				color = { 220 20 30 }
+				color2 = { 255 255 255 }
+				
+				b_maldon = {
+					province = 1515
+
+					color = { 220 20 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_chelmsford = {
+				color = { 220 20 30 }
+				color2 = { 255 255 255 }
+				
+				b_chelmsford = {
+					province = 1516
+
+					color = { 220 20 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_dunmow = {
+				color = { 220 20 30 }
+				color2 = { 255 255 255 }
+				
+				b_dunmow = {
+					province = 1517
+
+					color = { 220 20 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_bedford = {
+			color = { 205 20 15 }
+			color2 = { 255 255 255 }
+			
+			capital = c_bedford
+			
+			c_ampthill = {
+				color = { 205 20 15 }
+				color2 = { 255 255 255 }
+				
+				b_ampthill = {
+					province = 1539
+
+					color = { 205 20 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_luton = {
+				color = { 205 20 15 }
+				color2 = { 255 255 255 }
+				
+				b_luton = {
+					province = 1540
+
+					color = { 205 20 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_bedford = {
+				color = { 205 20 15 }
+				color2 = { 255 255 255 }
+				
+				b_bedford = {
+					province = 1538
+
+					color = { 205 20 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_herutfordshire = {
+			color = { 250 35 35 }
+			color2 = { 255 255 255 }
+			
+			capital = c_berkhamsted
+			
+			c_berkhamsted = {
+				color = { 250 35 35 }
+				color2 = { 255 255 255 }
+
+				b_berkhamsted = {
+					province = 1531
+
+					color = { 250 35 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_saint_albans = {
+				color = { 250 35 35 }
+				color2 = { 255 255 255 }
+
+				b_saint_albans = {
+					province = 1532
+
+					color = { 250 35 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_hertford = {
+				color = { 250 35 35 }
+				color2 = { 255 255 255 }
+
+				b_hertford = {
+					province = 1533
+
+					color = { 250 35 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_buckinhamshire = {
+			color = { 241 15 15 }
+			color2 = { 255 255 255 }
+			
+			capital = c_buckingham
+			
+			c_buckingham = {
+				color = { 200 25 25 }
+				color2 = { 255 255 255 }
+				
+				b_buckingham = {
+					province = 1551
+
+					color = { 200 25 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_aylesbury = {
+				color = { 200 25 25 }
+				color2 = { 255 255 255 }
+				
+				b_aylesbury = {
+					province = 1552
+
+					color = { 200 25 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_newport = {
+				color = { 200 25 25 }
+				color2 = { 255 255 255 }
+				
+				b_newport = {
+					province = 1553
+
+					color = { 200 25 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_wycombe = {
+				color = { 200 25 25 }
+				color2 = { 255 255 255 }
+				
+				b_wycombe = {
+					province = 1554
+
+					color = { 200 25 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_northumberland = {
+		color = hsv{ 0.98 0.9 0.9 }
+		color2 = { 255 255 255 }
+		
+		capital = c_bamburgh
+		
+		d_northumberland = {
+			color = { 245 0 0 }
+			color2 = { 255 255 255 }
+			
+			capital = c_bamburgh
+
+			c_bamburgh = {
+				color = { 245 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_bamburgh = {
+					province = 1609
+
+					color = { 245 0 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_rothbury = {
+				color = { 245 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_rothbury = {
+					province = 1612
+
+					color = { 245 0 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_lidisfarne = {
+				color = { 245 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_lindisfarne = {
+					province = 1610
+
+					color = { 245 0 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_hexham = {
+				color = { 245 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_hexham = {
+					province = 1611
+
+					color = { 245 0 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_durham = {
+			color = { 255 15 15 }
+			color2 = { 255 255 255 }
+			
+			capital = c_durham
+
+			c_durham = {
+				color = { 255 15 15 }
+				color2 = { 255 255 255 }
+				
+				b_durham = {
+					province = 1606
+
+					color = { 255 15 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_hartlepool = {
+				color = { 255 15 15 }
+				color2 = { 255 255 255 }
+				
+				b_hartlepool = {
+					province = 1607
+
+					color = { 255 15 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_darlington = {
+				color = { 255 15 15 }
+				color2 = { 255 255 255 }
+				
+				b_darlington = {
+					province = 1608
+
+					color = { 255 15 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_cumberland = {
+			color = { 240 25 25 }
+			color2 = { 255 255 255 }
+			
+			capital = c_carlisle
+			
+			c_carlisle = {
+				color = { 240 25 25 }
+				color2 = { 255 255 255 }
+	
+				b_carlisle = {
+					province = 1635
+
+					color = { 240 25 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_whitehaven = {
+				color = { 240 25 25 }
+				color2 = { 255 255 255 }
+	
+				b_whitehaven = {
+					province = 1636
+
+					color = { 240 25 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_furness = {
+				color = { 240 25 25 }
+				color2 = { 255 255 255 }
+	
+				b_furness = {
+					province = 1642
+
+					color = { 240 25 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_lancaster = {
+		color = { 255 48 0 }
+		color2 = { 255 255 255 }
+		
+		capital = c_lancaster
+		
+		d_lancashire = {
+			color = { 250 55 5 }
+			color2 = { 255 255 255 }
+			
+			capital = c_lancaster
+			
+			c_lancaster = {
+				color = { 250 55 5 }
+				color2 = { 255 255 255 }
+			
+				b_lancaster = {
+					province = 1639
+
+					color = { 250 55 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_salford = {
+				color = { 250 55 5 }
+				color2 = { 255 255 255 }
+			
+				b_salford = {
+					province = 1640
+
+					color = { 250 55 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_west_derby = {
+				color = { 250 55 5 }
+				color2 = { 255 255 255 }
+			
+				b_west_derby = {
+					province = 1641
+
+					color = { 250 55 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_westmorland = {
+			color = { 210 35 10 }
+			color2 = { 255 255 255 }
+			
+			capital = c_kendal
+			
+			c_kendal = {
+				color = { 210 35 10 }
+				color2 = { 255 255 255 }
+			
+				b_kendal = {
+					province = 1637
+
+					color = { 210 35 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_appleby = {
+				color = { 210 35 10 }
+				color2 = { 255 255 255 }
+			
+				b_appleby = {
+					province = 1638
+
+					color = { 210 35 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_cheshire = {
+			color = { 255 127 15 }
+			color2 = { 255 255 255 }
+			
+			capital = c_chester
+			
+			c_chester = {
+				color = { 255 127 15 }
+				color2 = { 255 255 255 }
+			
+				b_chester = {
+					province = 1643
+
+					color = { 255 127 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_northwich = {
+				color = { 255 127 15 }
+				color2 = { 255 255 255 }
+			
+				b_northwich = {
+					province = 1644
+
+					color = { 255 127 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_macclesfield = {
+				color = { 255 127 15 }
+				color2 = { 255 255 255 }
+			
+				b_macclesfield = {
+					province = 1645
+
+					color = { 255 127 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_derby = {
+			color = { 250 55 5 }
+			color2 = { 255 255 255 }
+			
+			capital = c_lancaster
+			
+			c_derby = {
+				color = { 255 50 20 }
+				color2 = { 255 255 255 }
+				
+				b_derby = {
+					province = 1621
+
+					color = { 255 50 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_chesterfield = {
+				color = { 255 50 20 }
+				color2 = { 255 255 255 }
+				
+				b_chesterfield = {
+					province = 1622
+
+					color = { 255 50 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_castleton = {
+				color = { 255 50 20 }
+				color2 = { 255 255 255 }
+				
+				b_castleton = {
+					province = 1623
+
+					color = { 255 50 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_york = {
+		color = { 255 90 15 }
+		color2 = { 255 255 255 }
+		
+		capital = c_york
+		
+		d_north_riding = {
+			color = { 255 90 15 }
+			color2 = { 255 255 255 }
+			
+			capital = c_york # York
+			
+			c_york = {
+				color = { 255 95 20 }
+				color2 = { 255 255 255 }
+				
+				b_york = {
+					province = 1595
+
+					color = { 255 95 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_scarborough = {
+				color = { 255 95 20 }
+				color2 = { 255 255 255 }
+				
+				b_scarborough = {
+					province = 1596
+
+					color = { 255 95 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_whitby = {
+				color = { 255 95 20 }
+				color2 = { 255 255 255 }
+				
+				b_whitby = {
+					province = 1597
+
+					color = { 255 95 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_richmond = {
+				color = { 255 95 20 }
+				color2 = { 255 255 255 }
+				
+				b_richmond = {
+					province = 1598
+
+					color = { 255 95 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_yarlestre = {
+				color = { 255 95 20 }
+				color2 = { 255 255 255 }
+				
+				b_yarlestre = {
+					province = 1500
+
+					color = { 255 95 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_east_riding = {
+			color = { 255 139 15 }
+			color2 = { 255 255 255 }
+			
+			capital = c_pockington
+			
+			c_pockington = {
+				color = { 255 139 15 }
+				color2 = { 255 255 255 }
+
+				b_pockington = {
+					province = 1588
+
+					color = { 255 139 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cottingham = {
+				color = { 255 139 15 }
+				color2 = { 255 255 255 }
+
+				b_cottingham = {
+					province = 1589
+
+					color = { 255 139 15 }
+ 					color2 = { 255 255 255 }
+				}
+			}
+			c_bridlington = {
+				color = { 255 139 15 }
+				color2 = { 255 255 255 }
+
+				b_bridlington = {
+					province = 1590
+
+					color = { 255 139 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_west_riding = {
+			color = { 255 120 35 }
+			color2 = { 255 255 255 }
+			
+			capital = c_leeds
+			
+			c_leeds = {
+				color = { 255 120 35 }
+				color2 = { 255 255 255 }
+
+				b_leeds = {
+					province = 1591
+
+					color = { 255 120 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_doncaster = {
+				color = { 255 120 35 }
+				color2 = { 255 255 255 }
+
+				b_doncaster = {
+					province = 1592
+
+					color = { 255 120 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_halifax = {
+				color = { 255 120 35 }
+				color2 = { 255 255 255 }
+
+				b_halifax = {
+					province = 1593
+
+					color = { 255 120 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_sheffield = {
+				color = { 255 120 35 }
+				color2 = { 255 255 255 }
+
+				b_sheffield = {
+					province = 1594
+
+					color = { 255 120 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_bolton = {
+				color = { 255 120 35 }
+				color2 = { 255 255 255 }
+
+				b_bolton = {
+					province = 1499
+
+					color = { 255 120 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ripon = {
+				color = { 255 120 35 }
+				color2 = { 255 255 255 }
+
+				b_ripon = {
+					province = 1599
+
+					color = { 255 120 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_lincolnshire = {
+			color = { 232 195 74 }
+			color2 = { 255 255 255 }
+			
+			capital = c_lincoln
+			
+			c_lincoln = {
+				color = { 232 195 74 }
+				color2 = { 255 255 255 }
+				
+				b_lincoln = {
+					province = 1583
+
+					color = { 232 195 74 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_stamford = {
+				color = { 232 195 74 }
+				color2 = { 255 255 255 }
+				
+				b_stamford = {
+					province = 1584
+
+					color = { 232 195 74 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_boston = {
+				color = { 232 195 74 }
+				color2 = { 255 255 255 }
+				
+				b_boston = {
+					province = 1585
+
+					color = { 232 195 74 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_bolingsbrooke = {
+				color = { 232 195 74 }
+				color2 = { 255 255 255 }
+				
+				b_bolingsbroke = {
+					province = 1586
+
+					color = { 232 195 74 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_grimsby = {
+				color = { 232 195 74 }
+				color2 = { 255 255 255 }
+				
+				b_grimsby = {
+					province = 1587
+
+					color = { 232 195 74 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_norfolk = {
+		color = { 200 90 0 }
+		color2 = { 255 255 255 }
+		
+		capital = c_norwich
+		
+		d_norfolk = { #East Anglia
+			color = { 210 100 0 }
+			color2 = { 255 255 255 }
+			
+			capital = c_norwich
+			
+			cultural_names = {
+				norse = cn_jarnamoda
+				norwegian = cn_jarnamoda
+			}
+
+			c_norwich = {
+				color = { 210 100 0 }
+				color2 = { 255 255 255 }
+
+				b_norwich = {
+					province = 1522
+
+					color = { 210 100 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_thetford = {
+				color = { 210 100 0 }
+				color2 = { 255 255 255 }
+
+				b_thetford = {
+					province = 1523
+
+					color = { 210 100 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_walsingham = {
+				color = { 210 100 0 }
+				color2 = { 255 255 255 }
+
+				b_walsingham = {
+					province = 1524
+
+					color = { 210 100 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_lynn = {
+				color = { 210 100 0 }
+				color2 = { 255 255 255 }
+
+				b_lynn = {
+					province = 1525
+
+					color = { 210 100 0 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_suffolk = { 
+			color = { 215 125 10 }
+			color2 = { 255 255 255 }
+			
+			capital = c_ipswich
+			
+			c_ipswich = {
+				color = { 215 125 10 }
+				color2 = { 255 255 255 }
+			
+				b_ipswich = {
+					province = 1518
+
+					color = { 215 125 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_sudbury = {
+				color = { 215 125 10 }
+				color2 = { 255 255 255 }
+			
+				b_sudbury = {
+					province = 1519
+
+					color = { 215 125 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_blything = {
+				color = { 215 125 10 }
+				color2 = { 255 255 255 }
+			
+				b_blything = {
+					province = 1520
+
+					color = { 215 125 10 }
+					color2 = { 255 255 255 }
+				}
+				
+			}
+			c_beodericsworth = {
+				color = { 215 125 10 }
+				color2 = { 255 255 255 }
+			
+				b_beodericsworth = {
+					province = 1521
+
+					color = { 215 125 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_cambridgeshire = { 
+			color = { 205 145 5 }
+			color2 = { 255 255 255 }
+			
+			capital = c_cambridge
+
+			c_cambridge = {
+				color = { 205 145 5 }
+				color2 = { 255 255 255 }
+
+				b_cambridge = {
+					province = 1534
+
+					color = { 205 145 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_radfield = {
+				color = { 205 145 5 }
+				color2 = { 255 255 255 }
+
+				b_radfield = {
+					province = 1535
+
+					color = { 205 145 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_papworth = {
+				color = { 205 145 5 }
+				color2 = { 255 255 255 }
+
+				b_papworth = {
+					province = 1536
+
+					color = { 205 145 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ely = {
+				color = { 205 145 5 }
+				color2 = { 255 255 255 }
+
+				b_ely = {
+					province = 1537
+
+					color = { 205 145 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_hereford = {
+		color = { 200 30 0 }
+		color2 = { 255 255 255 }
+		
+		capital = c_warwick
+		
+		d_warwickshire = {
+			color = { 190 30 30 }
+			color2 = { 255 255 255 }
+			
+			capital = c_warwick
+			
+			c_warwick = {
+				color = { 190 30 30 }
+				color2 = { 255 255 255 }
+				
+				b_warwick = {
+					province = 1603
+
+					color = { 190 30 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_coventry = {
+				color = { 190 30 30 }
+				color2 = { 255 255 255 }
+				
+				b_coventry = {
+					province = 1604
+
+					color = { 190 30 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_birmingham = {
+				color = { 190 30 30 }
+				color2 = { 255 255 255 }
+				
+				b_birmingham = {
+					province = 1605
+
+					color = { 190 30 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_leicestershire = {
+			color = { 130 5 25 }
+			color2 = { 255 255 255 }
+			
+			capital = c_leicester
+			
+			c_leicester = {
+				color = { 130 5 25 }
+				color2 = { 255 255 255 }
+			
+				b_leicester = {
+					province = 1615
+
+					color = { 130 5 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_melton = {
+				color = { 130 5 25 }
+				color2 = { 255 255 255 }
+			
+				b_melton = {
+					province = 1616
+
+					color = { 130 5 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_bosworth = {
+				color = { 130 5 25 }
+				color2 = { 255 255 255 }
+			
+				b_bosworth = {
+					province = 1617
+
+					color = { 130 5 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_rutland = {
+				color = { 130 5 25 }
+				color2 = { 255 255 255 }
+			
+				b_rutland = {
+					province = 1613
+	
+					color = { 130 5 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_nottinghamshire = {
+			color = { 175 0 30 }
+			color2 = { 255 255 255 }
+			
+			capital = c_nottingham
+			
+			c_nottingham = {
+				color = { 175 0 30 }
+				color2 = { 255 255 255 }
+
+				b_nottingham = {
+					province = 1618
+
+					color = { 175 0 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_newark = {
+				color = { 175 0 30 }
+				color2 = { 255 255 255 }
+
+				b_newark = {
+					province = 1619
+
+					color = { 175 0 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_retford = {
+				color = { 175 0 30 }
+				color2 = { 255 255 255 }
+
+				b_retford = {
+					province = 1620
+
+					color = { 175 0 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_staffordshire = {
+			color = { 210 90 65 }
+			color2 = { 255 255 255 }
+			
+			capital = c_stafford
+			
+			c_stafford = {
+				color = { 210 90 65 }
+				color2 = { 255 255 255 }
+
+				b_stafford = {
+					province = 1627
+
+					color = { 210 90 65 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_wolverhampton = {
+				color = { 210 90 65 }
+				color2 = { 255 255 255 }
+
+				b_wolverhampton = {
+					province = 1628
+
+					color = { 210 90 65 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_stoke_on_trent = {
+				color = { 210 90 65 }
+				color2 = { 255 255 255 }
+
+				b_stoke_on_trent = {
+					province = 1629
+
+					color = { 210 90 65 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_worcestershire = {
+			color = { 160 20 5 }
+			color2 = { 255 255 255 }
+			
+			capital = c_worcester
+			
+			c_worcester = {
+				color = { 160 20 5 }
+				color2 = { 255 255 255 }
+				
+				b_worcester = {
+					province = 1624
+
+					color = { 160 20 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_evesham = {
+				color = { 160 20 5 }
+				color2 = { 255 255 255 }
+				
+				b_evesham = {
+					province = 1625
+
+					color = { 160 20 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_kidderminster = {
+				color = { 160 20 5 }
+				color2 = { 255 255 255 }
+				
+				b_kidderminster = {
+					province = 1626
+
+					color = { 160 20 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_huntingdonshire = {
+			color = { 175 40 55 }
+			color2 = { 255 255 255 }
+			
+			capital = c_hurstingstone
+			
+			c_hurstingstone = {
+				color = { 175 40 55 }
+				color2 = { 255 255 255 }
+
+				b_hurstingstone = {
+					province = 1541
+
+					color = { 175 40 55 }
+					color2 = { 255 255 255 }	
+				}
+			}
+			c_norman_cross = {
+				color = { 175 40 55 }
+				color2 = { 255 255 255 }
+
+				b_norman_cross = {
+					province = 1542
+
+					color = { 175 40 55 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_leightonstone = {
+				color = { 175 40 55 }
+				color2 = { 255 255 255 }
+
+				b_leightonstone = {
+					province = 1543
+
+					color = { 175 40 55 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_northamptonshire = {
+			color = { 125 5 5 }
+			color2 = { 255 255 255 }
+			
+			capital = c_northampton
+			
+			c_northampton = {
+				color = { 125 5 5 }
+				color2 = { 255 255 255 }
+				
+				b_northampton = {
+					province = 1600
+
+					color = { 125 5 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_peterborough = {
+				color = { 125 5 5 }
+				color2 = { 255 255 255 }
+				
+				b_peterborough = {
+					province = 1601
+
+					color = { 125 5 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_kettering = {
+				color = { 125 5 5 }
+				color2 = { 255 255 255 }
+				
+				b_kettering = {
+					province = 1602
+
+					color = { 125 5 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_shropshire = {
+			color = { 241 70 70 }
+			color2 = { 255 255 255 }
+			
+			capital = c_shrewsbury
+			
+			c_shrewsbury = {
+				color = { 241 70 70 }
+				color2 = { 255 255 255 }
+
+				b_shrewsbury = {
+					province = 1646
+
+					color = { 241 55 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ludlow = {
+				color = { 241 70 70 }
+				color2 = { 255 255 255 }
+
+				b_ludlow = {
+					province = 1647
+
+					color = { 241 55 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_bishops_castle = {
+				color = { 241 70 70 }
+				color2 = { 255 255 255 }
+
+				b_bishops_castle = {
+					province = 1648
+
+					color = { 241 55 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_gloucester = {
+		color = { 241 79 15 }
+		color2 = { 255 255 255 }
+		
+		capital = c_gloucester
+		
+		d_gloucestershire = {
+			color = { 245 85 20 }
+			color2 = { 255 255 255 }
+			
+			capital = c_gloucester
+			
+			c_gloucester = {
+				color = { 245 85 20 }
+				color2 = { 255 255 255 }
+			
+				b_gloucester = {
+					province = 1580
+
+					color = { 245 85 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_bristol = {
+				color = { 245 85 20 }
+				color2 = { 255 255 255 }
+			
+				b_bristol = {
+					province = 1581
+
+					color = { 245 85 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_winchcombe = {
+				color = { 245 85 20 }
+				color2 = { 255 255 255 }
+			
+				b_winchcombe = {
+					province = 1582
+
+					color = { 245 85 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_wiltshire = {
+			color = { 250 55 15 }
+			color2 = { 255 255 255 }
+			
+			capital = c_salibury
+			
+			c_salisbury = {
+				color = { 250 55 15 }
+				color2 = { 255 255 255 }
+			
+				b_salisbury = {
+					province = 1561
+
+					color = { 250 55 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_wilton = {
+				color = { 250 55 15 }
+				color2 = { 255 255 255 }
+			
+				b_wilton = {
+					province = 1562
+
+					color = { 250 55 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ramsbury = {
+				color = { 250 55 15 }
+				color2 = { 255 255 255 }
+			
+				b_ramsbury = {
+					province = 1563
+
+					color = { 250 55 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_malmesbury = {
+				color = { 250 55 15 }
+				color2 = { 255 255 255 }
+			
+				b_malmesbury = {
+					province = 1564
+
+					color = { 250 55 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_oxfordshire = {
+			color = { 255 115 15 }
+			color2 = { 255 255 255 }
+			
+			capital = c_oxford
+			
+			c_oxford = {
+				color = { 255 115 15 }
+				color2 = { 255 255 255 }
+				
+				b_oxford = {
+					province = 1558
+
+					color = { 255 115 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_banbury = {
+				color = { 255 115 15 }
+				color2 = { 255 255 255 }
+				
+				b_banbury = {
+					province = 1559
+
+					color = { 255 115 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_witney = {
+				color = { 255 115 15 }
+				color2 = { 255 255 255 }
+				
+				b_witney = {
+					province = 1560
+
+					color = { 255 115 15 }
+					color2 = { 255 255 255 }	
+				}
+			}
+		}
+		
+		d_berkshire = {
+			color = { 255 100 25 }
+			color2 = { 255 255 255 }
+			
+			capital = c_reading
+			
+			c_reading = {
+				color = { 255 100 25 }
+				color2 = { 255 255 255 }
+
+				b_reading = {
+					province = 1555
+
+					color = { 255 100 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_newbury = {
+				color = { 255 100 25 }
+				color2 = { 255 255 255 }
+
+				b_newbury = {
+					province = 1556
+
+					color = { 255 100 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_abingdon = {
+				color = { 255 100 25 }
+				color2 = { 255 255 255 }
+
+				b_abingdon = {
+					province = 1557
+
+					color = { 255 100 25 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_canterbury = {
+		color = { 241 100 15 }
+		color2 = { 255 255 255 }
+		
+		capital = c_dover
+		
+		d_kent = {
+			color = { 245 105 20 }
+			color2 = { 255 255 255 }
+			
+			capital = c_dover
+			
+			c_dover = {
+				color = { 245 105 20 }
+				color2 = { 255 255 255 }
+				
+				b_dover = {
+					province = 1502
+
+					color = { 245 105 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_canterbury = {
+				color = { 245 105 20 }
+				color2 = { 255 255 255 }
+				
+				b_canterbury = {
+					province = 1503
+
+					color = { 245 105 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_rochester = {
+				color = { 245 105 20 }
+				color2 = { 255 255 255 }
+				
+				b_rochester = {
+					province = 1504
+
+					color = { 245 105 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_tonbridge = {
+				color = { 245 105 20 }
+				color2 = { 255 255 255 }
+				
+				b_tonbridge = {
+					province = 1505
+
+					color = { 245 105 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_surrey = {
+			color = { 225 80 20 }
+			color2 = { 255 255 255 }
+			
+			capital = c_chertsey
+			
+			c_chertsey = {
+				color = { 225 80 20 }
+				color2 = { 255 255 255 }
+				
+				b_chertsey = {
+					province = 1510
+
+					color = { 225 80 20 }
+					color2 = { 255 255 255 }	
+				}
+			}
+			c_guildford = {
+				color = { 225 80 20 }
+				color2 = { 255 255 255 }
+				
+				b_guildford = {
+					province = 1511
+
+					color = { 225 80 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_kingston = {
+				color = { 225 80 20 }
+				color2 = { 255 255 255 }
+				
+				b_kingston = {
+					province = 1512
+
+					color = { 225 80 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_tandbridge = {
+				color = { 225 80 20 }
+				color2 = { 255 255 255 }
+				
+				b_tandbridge = {
+					province = 1513
+
+					color = { 225 80 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_sussex = {
+			color = { 225 105 10 }
+			color2 = { 255 255 255 }
+			
+			capital = c_lewes
+			
+			c_lewes = {
+				color = { 225 105 10 }
+				color2 = { 255 255 255 }
+				
+				b_lewes = {
+					province = 1506
+					
+					color = { 225 105 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_chichester = {
+				color = { 225 105 10 }
+				color2 = { 255 255 255 }
+				
+				b_chichester = {
+					province = 1507
+
+					color = { 225 105 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_arun = {
+				color = { 225 105 10 }
+				color2 = { 255 255 255 }
+				
+				b_arun = {
+					province = 1508
+
+					color = { 225 105 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_hastings = {
+				color = { 225 105 10 }
+				color2 = { 255 255 255 }
+				
+				b_hastings = {
+					province = 1509
+
+					color = { 225 105 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_somerset = {
+		color = hsv{ 1 0.9 0.9 }
+		color2 = { 255 255 255 }
+		
+		capital = c_lancaster
+		
+		d_hampton = {
+			color = { 230 15 55 }
+			color2 = { 255 255 255 }
+			
+			capital = c_winchester
+			
+			c_winchester = {
+				color = { 230 15 55 }
+				color2 = { 255 255 255 }
+				
+				b_winchester = {
+					province = 1544
+
+					color = { 230 15 55 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_southampton = {
+				color = { 230 15 55 }
+				color2 = { 255 255 255 }
+				
+				b_southampton = {
+					province = 1545
+
+					color = { 230 15 55 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_portsmouth = {
+				color = { 230 15 55 }
+				color2 = { 255 255 255 }
+				
+				b_portsmouth = {
+					province = 1546
+
+					color = { 230 15 55 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_basingstoke = {
+				color = { 230 15 55 }
+				color2 = { 255 255 255 }
+				
+				b_basingstoke = {
+					province = 1547
+
+					color = { 230 15 55 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_christchurch = {
+				color = { 230 15 55 }
+				color2 = { 255 255 255 }
+				
+				b_christchurch = {
+					province = 1548
+
+					color = { 230 15 55 }
+					color2 = { 255 255 255 }	
+				}
+			}
+		}
+		
+		d_isle_of_wight = {
+			color = { 250 10 90 }
+			color2 = { 255 255 255 }
+			
+			capital = c_carlsbrooke
+			
+			c_carlsbrooke = {
+				color = { 250 10 90 }
+				color2 = { 255 255 255 }
+
+				b_carisbrooke = {
+					province = 1549
+
+					color = { 250 10 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_dorset = {
+			color = { 185 0 75 }
+			color2 = { 255 255 255 }
+			
+			capital = c_wareham
+			
+			c_wareham = {
+				color = { 185 0 75 }
+				color2 = { 255 255 255 }
+				
+				b_wareham = {
+					province = 1565
+
+					color = { 185 0 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_poole = {
+				color = { 185 0 75 }
+				color2 = { 255 255 255 }
+				
+				b_poole = {
+					province = 1566
+
+					color = { 185 0 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_shaftsbury = {
+				color = { 185 0 75 }
+				color2 = { 255 255 255 }
+				
+				b_shaftesbury = {
+					province = 1567
+
+					color = { 185 0 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_lyme = {
+				color = { 185 0 75 }
+				color2 = { 255 255 255 }
+				
+				b_lyme = {
+					province = 1568
+
+					color = { 185 0 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_somerset = {
+			color = { 156 0 83 }
+			color2 = { 255 255 255 }
+			
+			capital = c_bath
+			
+			c_bath = {
+				color = { 156 0 83 }
+				color2 = { 255 255 255 }
+				
+				b_bath = {
+					province = 1576
+
+					color = { 241 30 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_winterstroke = {
+				color = { 156 0 83 }
+				color2 = { 255 255 255 }
+				
+				b_winterstoke = {
+					province = 1577
+
+					color = { 241 30 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ilchester = {
+				color = { 156 0 83 }
+				color2 = { 255 255 255 }
+				
+				b_ilchester = {
+					province = 1578
+
+					color = { 241 30 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_taunton = {
+				color = { 156 0 83 }
+				color2 = { 255 255 255 }
+				
+				b_taunton = {
+					province = 1579
+
+					color = { 241 30 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_cornwall = {
+		color = { 181 60 10 }
+		color2 = { 255 255 255 }
+		
+		capital = c_tintagel
+		
+		d_devon = {
+			color = { 170 60 10 }
+			color2 = { 255 255 255 }
+			
+			capital = c_exeter
+			
+			c_exeter = {
+				color = { 170 60 10 }
+				color2 = { 255 255 255 }
+				
+				b_exeter = {
+					province = 1569
+
+					color = { 170 60 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_totnes = {
+				color = { 170 60 10 }
+				color2 = { 255 255 255 }
+				
+				b_totnes = {
+					province = 1570
+
+					color = { 170 60 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_okehampton = {
+				color = { 170 60 10 }
+				color2 = { 255 255 255 }
+				
+				b_okehampton = {
+					province = 1571
+
+					color = { 170 60 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_barnstaple = {
+				color = { 170 60 10 }
+				color2 = { 255 255 255 }
+				
+				b_barnstaple = {
+					province = 1572
+
+					color = { 170 60 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_cornwall = {
+			color = { 150 55 5 }
+			color2 = { 255 255 255 }
+			
+			capital = c_launceston
+			
+			c_launceston = {
+				color = { 150 55 5 }
+				color2 = { 255 255 255 }
+				
+				b_launceston = {
+					province = 1573
+
+					color = { 150 55 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_tintagel = {
+				color = { 150 55 5 }
+				color2 = { 255 255 255 }
+				
+				b_tintagel = {
+					province = 1574
+
+					color = { 150 55 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_helston = {
+				color = { 150 55 5 }
+				color2 = { 255 255 255 }
+				
+				b_helston = {
+					province = 1575
+
+					color = { 150 55 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+}

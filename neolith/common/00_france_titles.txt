@@ -1,0 +1,1481 @@
+﻿@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+############################################################################
+e_france = {
+	color = { 15 27 187 }
+	color2 = { 255 255 20 }
+	
+	capital = c_paris
+	
+	k_valois = {
+		color = { 15 27 187 }
+		color2 = { 255 255 20 }
+		
+		capital = c_paris
+		
+		d_ile_de_france = {
+			color = { 24 52 226 }
+			color2 = { 255 255 255 }
+			
+			capital = c_paris
+			
+			c_paris = {
+				color = { 24 52 226 }
+				color2 = { 255 255 255 }
+
+				b_paris = {
+					province = 2333
+
+					color = { 24 52 226 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_saint_denis = {
+				color = { 24 52 226 }
+				color2 = { 255 255 255 }
+
+				b_saint_denis = {
+					province = 2357
+
+					color = { 24 52 226 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_montreuil = {
+				color = { 24 52 226 }
+				color2 = { 255 255 255 }
+
+				b_montreuil = {
+					province = 2356
+
+					color = { 24 52 226 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_versailles = {
+				color = { 24 52 226 }
+				color2 = { 255 255 255 }
+
+				b_versailles = {
+					province = 2334
+
+					color = { 24 52 226 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_montlhery = {
+				color = { 24 52 226 }
+				color2 = { 255 255 255 }
+
+				b_montlhery = {
+					province = 2335
+
+					color = { 24 52 226 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_etampes = {
+				color = { 24 52 226 }
+				color2 = { 255 255 255 }
+
+				b_etampes = {
+					province = 2336
+
+					color = { 24 52 226 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_brie_francaise = {
+			color = { 25 80 225 }
+			color2 = { 255 255 255 }
+			
+			capital = c_melun
+			
+			c_melun = {
+				color = { 25 80 225 }
+				color2 = { 255 255 255 }
+				
+				b_melun = {
+					province = 2354
+
+					color = { 25 80 225 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_bray = {
+				color = { 25 80 225 }
+				color2 = { 255 255 255 }
+				
+				b_bray = {
+					province = 2353
+
+					color = { 25 80 225 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_nemours = {
+				color = { 25 80 225 }
+				color2 = { 255 255 255 }
+				
+				b_nemours = {
+					province = 2337
+
+					color = { 25 80 225 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_montereau = {
+				color = { 25 80 225 }
+				color2 = { 255 255 255 }
+				
+				b_montereau = {
+					province = 2342
+
+					color = { 25 80 225 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_vermandois = {
+			color = { 20 50 220 }
+			color2 = { 255 255 255 }
+			
+			capital = c_marle
+			
+			c_marle = {
+				color = { 20 50 220 }
+				color2 = { 255 255 255 }
+				
+				b_marle = {
+					province = 2397
+
+					color = { 20 50 220 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_roucy = {
+				color = { 20 50 220 }
+				color2 = { 255 255 255 }
+				
+				b_roucy = {
+					province = 2400
+
+					color = { 20 50 220 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_laon = {
+				color = { 20 50 220 }
+				color2 = { 255 255 255 }
+				
+				b_laon = {
+					province = 2399
+
+					color = { 20 50 220 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_senlis = {
+			color = { 15 40 210 }
+			color2 = { 255 255 255 }
+			
+			capital = c_senlis
+			
+			c_senlis = {
+				color = { 15 40 210 }
+				color2 = { 255 255 255 }
+				
+				b_senlis = {
+					province = 2358
+
+					color = { 15 40 210 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_crepy = {
+				color = { 15 40 210 }
+				color2 = { 255 255 255 }
+				
+				b_crepy = {
+					province = 2360
+
+					color = { 15 40 210 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_coucy = {
+				color = { 15 40 210 }
+				color2 = { 255 255 255 }
+				
+				b_coucy = {
+					province = 2398
+
+					color = { 15 40 210 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_amiens = {
+			color = { 18 76 240 }
+			color2 = { 255 255 255 }
+			
+			capital = c_amiens
+			
+			c_amiens = {
+				color = { 18 76 240 }
+				color2 = { 255 255 255 }
+				
+				b_amiens = {
+					province = 2184
+
+					color = { 18 76 240 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_corbie = {
+				color = { 18 76 240 }
+				color2 = { 255 255 255 }
+				
+				b_corbie = {
+					province = 2185
+
+					color = { 18 76 240 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_peronne = {
+				color = { 18 76 240 }
+				color2 = { 255 255 255 }
+				
+				b_peronne = {
+					province = 2186
+
+					color = { 18 76 240 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_beaumont = {
+			color = { 35 65 230 }
+			color2 = { 255 255 255 }
+			
+			capital = c_beaumont
+			
+			c_beaumont = {
+				color = { 35 65 230 }
+				color2 = { 255 255 255 }
+				
+				b_beaumont = {
+					province = 2190
+
+					color = { 35 65 230 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mantes = {
+				color = { 35 65 230 }
+				color2 = { 255 255 255 }
+				
+				b_mantes = {
+					province = 2181
+
+					color = { 35 65 230 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_beauvais = {
+				color = { 35 65 230 }
+				color2 = { 255 255 255 }
+				
+				b_beauvais = {
+					province = 2183
+
+					color = { 35 65 230 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_montfort = {
+				color = { 35 65 230 }
+				color2 = { 255 255 255 }
+				
+				b_montfort = {
+					province = 2332
+
+					color = { 35 65 230 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_clermont = {
+			color = { 28 58 230 }
+			color2 = { 255 255 255 }
+			
+			capital = c_clermont
+			
+			c_clermont = {
+				color = { 28 58 230 }
+				color2 = { 255 255 255 }
+				
+				b_clermont = {
+					province = 2189
+
+					color = { 28 58 230 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_noyon = {
+				color = { 28 58 230 }
+				color2 = { 255 255 255 }
+				
+				b_noyon = {
+					province = 2188
+
+					color = { 28 58 230 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_saint_quentin = {
+				color = { 28 58 230 }
+				color2 = { 255 255 255 }
+				
+				b_saint_quentin = {
+					province = 2187
+
+					color = { 28 58 230 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_normandy = {
+		color = { 7 7 145 }
+		color2 = { 255 255 20 }
+		
+		capital = c_rouen
+		
+		d_rouen = {
+			color = { 7 7 145 }
+			color2 = { 255 255 255 }
+			
+			capital = c_rouen
+			
+			c_rouen = {
+				color = { 7 7 145 }
+				color2 = { 255 255 255 }
+				
+				b_rouen = {
+					province = 2179
+
+					color = { 7 7 145 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_gisors = {
+				color = { 7 7 145 }
+				color2 = { 255 255 255 }
+				
+				b_gisors = {
+					province = 2180
+
+					color = { 7 7 145 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_harcourt = {
+				color = { 7 7 145 }
+				color2 = { 255 255 255 }
+				
+				b_harcourt = {
+					province = 2175
+
+					color = { 7 7 145 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_evreux = {
+			color = { 0 15 130 }
+			color2 = { 255 255 255 }
+			
+			capital = c_evreux
+			
+			c_evreux = {
+				color = { 0 15 130 }
+				color2 = { 255 255 255 }
+				
+				b_evreux = {
+					province = 2329
+
+					color = { 0 15 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_vernon = {
+				color = { 0 15 130 }
+				color2 = { 255 255 255 }
+				
+				b_vernon = {
+					province = 2330
+
+					color = { 0 15 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_verneuil = {
+				color = { 0 15 130 }
+				color2 = { 255 255 255 }
+				
+				b_verneuil = {
+					province = 2328
+
+					color = { 0 15 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_bayeux = {
+			color = { 10 0 130 }
+			color2 = { 255 255 255 }
+			
+			capital = c_bayeux
+			
+			c_bayeux = {
+				color = { 10 0 130 }
+				color2 = { 255 255 255 }
+				
+				b_bayeux = {
+					province = 2170
+
+					color = { 10 0 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_caen = {
+				color = { 10 0 130 }
+				color2 = { 255 255 255 }
+				
+				b_caen = {
+					province = 2172
+
+					color = { 10 0 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_falaise = {
+				color = { 10 0 130 }
+				color2 = { 255 255 255 }
+				
+				b_falaise = {
+					province = 2173
+
+					color = { 10 0 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_avranches = {
+			color = { 10 0 130 }
+			color2 = { 255 255 255 }
+			
+			capital = c_avranches
+			
+			c_avranches = {
+				color = { 0 0 125 }
+				color2 = { 255 255 255 }
+				
+				b_avranches = {
+					province = 2167
+
+					color = { 0 0 125 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cherbourg = {
+				color = { 0 0 125 }
+				color2 = { 255 255 255 }
+				
+				b_cherbourg = {
+					province = 2169
+
+					color = { 0 0 125 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_coutances = {
+				color = { 0 0 125 }
+				color2 = { 255 255 255 }
+				
+				b_coutances = {
+					province = 2168
+
+					color = { 0 0 125 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_alencon = {
+			color = { 12 12 105 }
+			color2 = { 255 255 255 }
+			
+			capital = c_alencon
+			
+			c_alencon = {
+				color = { 12 12 105 }
+				color2 = { 255 255 255 }
+				
+				b_alencon = {
+					province = 2325
+
+					color = { 12 12 105 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_alencon = {
+				color = { 12 12 105 }
+				color2 = { 255 255 255 }
+				
+				b_mortain = {
+					province = 2171
+
+					color = { 12 12 105 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_alencon = {
+				color = { 12 12 105 }
+				color2 = { 255 255 255 }
+				
+				b_argentan = {
+					province = 2326
+
+					color = { 12 12 105 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_lisieux = {
+			color = { 10 10 160 }
+			color2 = { 255 255 255 }
+			
+			capital = c_lisieux
+			
+			c_lisieux = {
+				color = { 10 10 160 }
+				color2 = { 255 255 255 }
+				
+				b_lisieux = {
+					province = 2174
+
+					color = { 10 10 160 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_sees = {
+				color = { 10 10 160 }
+				color2 = { 255 255 255 }
+				
+				b_sees = {
+					province = 2327
+
+					color = { 10 10 160 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_eu = {
+			color = { 20 20 130 }
+			color2 = { 255 255 255 }
+			
+			capital = c_eu
+			
+			c_eu = {
+				color = { 20 20 130 }
+				color2 = { 255 255 255 }
+				
+				b_eu = {
+					province = 2178
+
+					color = { 20 20 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_fecamp = {
+				color = { 20 20 130 }
+				color2 = { 255 255 255 }
+				
+				b_fecamp = {
+					province = 2176
+
+					color = { 20 20 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_dieppe = {
+				color = { 20 20 130 }
+				color2 = { 255 255 255 }
+				
+				b_dieppe = {
+					province = 2177
+
+					color = { 20 20 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_aumale = {
+				color = { 20 20 130 }
+				color2 = { 255 255 255 }
+				
+				b_aumale = {
+					province = 2182
+
+					color = { 20 20 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_flanders = {
+		color = { 65 95 180 }
+		color2 = { 255 255 20 }
+		
+		capital = c_brugge
+		
+		d_brugge = {
+			color = { 65 95 180 }
+			color2 = { 255 255 255 }
+			
+			capital = c_brugge
+			
+			c_brugge = {
+				color = { 65 95 180 }
+				color2 = { 255 255 255 }
+				
+				b_bruges = {
+					province = 2115
+					
+					color = { 65 95 180 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_gent = {
+				color = { 65 95 180 }
+				color2 = { 255 255 255 }
+				
+				b_gent = {
+					province = 2114
+					
+					color = { 65 95 180 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_roeselare = {
+				color = { 65 95 180 }
+				color2 = { 255 255 255 }
+				
+				b_roeselare = {
+					province = 2124
+					
+					color = { 65 95 180 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_yperen = {
+			color = { 78 94 185 }
+			color2 = { 255 255 255 }
+			
+			capital = c_ypres
+			
+			c_ypres = {
+				color = { 78 94 185 }
+				color2 = { 255 255 255 }
+				
+				b_ypres = {
+					province = 2125
+					
+					color = { 78 94 185 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_veurne = {
+				color = { 78 94 185 }
+				color2 = { 255 255 255 }
+				
+				b_veurne = {
+					province = 2128
+					
+					color = { 78 94 185 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_dunkirk = {
+				color = { 78 94 185 }
+				color2 = { 255 255 255 }
+				
+				b_dunkirk = {
+					province = 2131
+					
+					color = { 78 94 185 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_guines = {
+			color = { 80 90 170 }
+			color2 = { 255 255 255 }
+			
+			capital = c_calais
+			
+			c_calais = {
+				color = { 80 90 170 }
+				color2 = { 255 255 255 }
+				
+				b_calais = {
+					province = 2130
+					
+					color = { 80 90 170 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_grevelines = {
+				color = { 80 90 170 }
+				color2 = { 255 255 255 }
+				
+				b_grevelines = {
+					province = 2129
+					
+					color = { 80 90 170 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_saint_omer = {
+				color = { 80 90 170 }
+				color2 = { 255 255 255 }
+				
+				b_saint_omer = {
+					province = 2133
+					
+					color = { 80 90 170 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_lille = {
+			color = { 75 115 205 }
+			color2 = { 255 255 255 }
+			
+			capital = c_lille
+			
+			c_lille = {
+				color = { 75 115 205 }
+				color2 = { 255 255 255 }
+				
+				b_lille = {
+					province = 2126
+					
+					color = { 75 115 205 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_courtrai = {
+				color = { 75 115 205 }
+				color2 = { 255 255 255 }
+				
+				b_courtrai = {
+					province = 2123
+					
+					color = { 75 115 205 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_aire = {
+				color = { 75 115 205 }
+				color2 = { 255 255 255 }
+				
+				b_aire = {
+					province = 2134
+					
+					color = { 75 115 205 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_boulogne = {
+			color = { 78 103 165 }
+			color2 = { 255 255 255 }
+			
+			capital = c_boulogne
+			
+			c_boulogne = {
+				color = { 78 103 165 }
+				color2 = { 255 255 255 }
+				
+				b_boulogne = {
+					province = 2132
+					
+					color = { 78 103 165 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_montreuil_sur_mer = {
+				color = { 78 103 165 }
+				color2 = { 255 255 255 }
+				
+				b_montreuil_sur_mer = {
+					province = 2136
+					
+					color = { 78 103 165 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_abbeville = {
+				color = { 78 103 165 }
+				color2 = { 255 255 255 }
+				
+				b_abbeville = {
+					province = 2137
+					
+					color = { 78 103 165 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_hesdin = {
+				color = { 78 103 165 }
+				color2 = { 255 255 255 }
+				
+				b_hesdin = {
+					province = 2135
+					
+					color = { 78 103 165 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_berry = {
+		color = { 30 40 220 }
+		color2 = { 255 255 20 }
+		
+		capital = c_deols
+		
+		d_berry = {
+			color = { 30 40 220 }
+			color2 = { 255 255 255 }
+			
+			capital = c_deols
+			
+			c_deols = {
+				color = { 30 40 220 }
+				color2 = { 255 255 255 }
+				
+				b_deols = {
+					province = 2280
+
+					color = { 30 40 220 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_chateauroux = {
+				color = { 30 40 220 }
+				color2 = { 255 255 255 }
+				
+				b_chateauroux = {
+					province = 2279
+
+					color = { 30 40 220 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_la_haye = {
+				color = { 30 40 220 }
+				color2 = { 255 255 255 }
+				
+				b_la_haye = {
+					province = 2276
+
+					color = { 30 40 220 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_tourraine = {
+			color = { 25 65 225 }
+			color2 = { 255 255 255 }
+			
+			capital = c_tours
+			
+			c_tours = {
+				color = { 25 65 225 }
+				color2 = { 255 255 255 }
+			
+				b_tours = {
+					province = 2274
+
+					color = { 25 65 225 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_tourraine = {
+				color = { 25 65 225 }
+				color2 = { 255 255 255 }
+			
+				b_tourraine = {
+					province = 2273
+
+					color = { 25 65 225 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_loches = {
+				color = { 25 65 225 }
+				color2 = { 255 255 255 }
+			
+				b_loches = {
+					province = 2275
+
+					color = { 25 65 225 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_blois = {
+			color = { 42 65 190 }
+			color2 = { 255 255 255 }
+			
+			capital = c_blois
+			
+			c_blois = {
+				color = { 42 65 190 }
+				color2 = { 255 255 255 }
+				
+				b_blois = {
+					province = 2319
+
+					color = { 42 65 190 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_contres = {
+				color = { 42 65 190 }
+				color2 = { 255 255 255 }
+				
+				b_contres = {
+					province = 2318
+
+					color = { 42 65 190 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_romorantin = {
+				color = { 42 65 190 }
+				color2 = { 255 255 255 }
+				
+				b_romorantin = {
+					province = 2316
+
+					color = { 42 65 190 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_issoudun = {
+			color = { 25 50 250 }
+			color2 = { 255 255 255 }
+			
+			capital = c_issoudun
+			
+			c_issoudun = {
+				color = { 25 50 250 }
+				color2 = { 255 255 255 }
+				
+				b_issoudun = {
+					province = 2278
+
+					color = { 25 50 250 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_valencay = {
+				color = { 25 50 250 }
+				color2 = { 255 255 255 }
+				
+				b_valencay = {
+					province = 2277
+
+					color = { 25 50 250 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_bourges = {
+				color = { 25 50 250 }
+				color2 = { 255 255 255 }
+				
+				b_bourges = {
+					province = 2312
+
+					color = { 25 50 250 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_anjou = {
+		color = { 5 95 235 }
+		color2 = { 255 255 20 }
+		
+		capital = c_angers
+				
+		d_anjou = {
+			color = { 5 95 235 }
+			color2 = { 255 255 255 }
+			
+			capital = c_angers
+			
+			c_angers = {
+				color = { 5 95 235 }
+				color2 = { 255 255 255 }
+				
+				b_angers = {
+					province = 2267
+
+					color = { 5 95 235 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_luigne = {
+				color = { 5 95 235 }
+				color2 = { 255 255 255 }
+				
+				b_luigne = {
+					province = 2263
+
+					color = { 5 95 235 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_la_fleche = {
+				color = { 5 95 235 }
+				color2 = { 255 255 255 }
+				
+				b_la_fleche = {
+					province = 2268
+
+					color = { 5 95 235 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_le_lude = {
+				color = { 5 95 235 }
+				color2 = { 255 255 255 }
+				
+				b_le_lude = {
+					province = 2269
+
+					color = { 5 95 235 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_craon = {
+				color = { 5 95 235 }
+				color2 = { 255 255 255 }
+				
+				b_craon = {
+					province = 2262
+
+					color = { 5 95 235 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_saumur = {
+			color = { 30 80 230 }
+			color2 = { 255 255 255 }
+			
+			capital = c_saumur
+			
+			c_saumur = {
+				color = { 30 80 230 }
+				color2 = { 255 255 255 }
+				
+				b_saumur = {
+					province = 2261
+
+					color = { 30 80 230 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_melay = {
+				color = { 30 80 230 }
+				color2 = { 255 255 255 }
+				
+				b_melay = {
+					province = 2260
+
+					color = { 30 80 230 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_maine = {
+			color = { 15 80 205 }
+			color2 = { 255 255 255 }
+			
+			capital = c_le_mans
+			
+			c_le_mans = {
+				color = { 15 80 205 }
+				color2 = { 255 255 255 }
+				
+				b_le_mans = {
+					province = 2270
+
+					color = { 15 80 205 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_courcillon = {
+				color = { 15 80 205 }
+				color2 = { 255 255 255 }
+				
+				b_courcillon = {
+					province = 2272
+
+					color = { 15 80 205 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_sarthe = {
+				color = { 15 80 205 }
+				color2 = { 255 255 255 }
+				
+				b_sarthe = {
+					province = 2271
+
+					color = { 15 80 205 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_sable = {
+			color = { 10 110 250 }
+			color2 = { 255 255 255 }
+			
+			capital = c_sable
+			
+			c_sable = {
+				color = { 10 110 250 }
+				color2 = { 255 255 255 }
+				
+				b_sable = {
+					province = 2264
+
+					color = { 10 110 250 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_mayenne = {
+				color = { 10 110 250 }
+				color2 = { 255 255 255 }
+				
+				b_mayenne = {
+					province = 2266
+
+					color = { 10 110 250 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_laval = {
+				color = { 10 110 250 }
+				color2 = { 255 255 255 }
+				
+				b_laval = {
+					province = 2265
+
+					color = { 10 110 250 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_orleans = {
+		color = { 10 16 243 }
+		color2 = { 255 255 20 }
+		
+		capital = c_orleans
+				
+		d_orleans = {
+			color = { 10 16 243 }
+			color2 = { 255 255 255 }
+			
+			capital = c_orleans
+			
+			c_orleans = {
+				color = { 10 16 243 }
+				color2 = { 255 255 255 }
+				
+				b_orleans = {
+					province = 2338
+
+					color = { 10 16 243 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_beaugency = {
+				color = { 10 16 243 }
+				color2 = { 255 255 255 }
+				
+				b_beaugency = {
+					province = 2320
+
+					color = { 10 16 243 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_olivet = {
+				color = { 10 16 243 }
+				color2 = { 255 255 255 }
+				
+				b_olivet = {
+					province = 2317
+
+					color = { 10 16 243 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_vierzon = {
+				color = { 10 16 243 }
+				color2 = { 255 255 255 }
+				
+				b_vierzon = {
+					province = 2315
+
+					color = { 10 16 243 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+				
+		d_montargis = {
+			color = { 7 15 240 }
+			color2 = { 255 255 255 }
+			
+			capital = c_montargis
+			
+			c_montargis = {
+				color = { 7 15 240 }
+				color2 = { 255 255 255 }
+				
+				b_montargis = {
+					province = 2339
+
+					color = { 7 15 240 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_coutenay = {
+				color = { 7 15 240 }
+				color2 = { 255 255 255 }
+				
+				b_coutenay = {
+					province = 2340
+
+					color = { 7 15 240 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_chateau_renard = {
+				color = { 7 15 240 }
+				color2 = { 255 255 255 }
+				
+				b_chateau_renard = {
+					province = 2341
+
+					color = { 7 15 240 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+				
+		d_vendome = {
+			color = { 4 4 210 }
+			color2 = { 255 255 255 }
+			
+			capital = c_vendome
+			
+			c_vendome = {
+				color = { 4 4 210 }
+				color2 = { 255 255 255 }
+				
+				b_vendome = {
+					province = 2283
+
+					color = { 4 4 210 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_chateaudun = {
+				color = { 4 4 210 }
+				color2 = { 255 255 255 }
+				
+				b_chateaudun = {
+					province = 2321
+
+					color = { 4 4 210 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+				
+		d_chartres = {
+			color = { 23 38 255 }
+			color2 = { 255 255 255 }
+			
+			capital = c_dreux
+			
+			c_dreux = {
+				color = { 23 38 255 }
+				color2 = { 255 255 255 }
+				
+				b_dreux = {
+					province = 2331
+
+					color = { 23 38 255 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_chartres = {
+				color = { 23 38 255 }
+				color2 = { 255 255 255 }
+				
+				b_chartres = {
+					province = 2322
+
+					color = { 23 38 255 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_perche = {
+				color = { 23 38 255 }
+				color2 = { 255 255 255 }
+				
+				b_perche = {
+					province = 2324
+
+					color = { 23 38 255 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_nogent_le_rotrou = {
+				color = { 23 38 255 }
+				color2 = { 255 255 255 }
+				
+				b_nogent_le_rotrou = {
+					province = 2323
+
+					color = { 23 38 255 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+				
+		d_sancerre = {
+			color = { 5 30 175 }
+			color2 = { 255 255 255 }
+			
+			capital = c_sancerre
+			
+			c_sancerre = {
+				color = { 5 30 175 }
+				color2 = { 255 255 255 }
+				
+				b_sancerre = {
+					province = 2314
+
+					color = { 5 30 175 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_sully_sur_loire = {
+				color = { 5 30 175 }
+				color2 = { 255 255 255 }
+				
+				b_sully_sur_loire = {
+					province = 2463
+
+					color = { 5 30 175 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_herry = {
+				color = { 5 30 175 }
+				color2 = { 255 255 255 }
+				
+				b_herry = {
+					province = 2313
+
+					color = { 5 30 175 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+}
