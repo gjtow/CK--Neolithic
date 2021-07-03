@@ -1,0 +1,75 @@
+﻿@holding_illustration_arid = "gfx/interface/illustrations/holding_types/tribe_arid.dds"
+@holding_illustration_grass = "gfx/interface/illustrations/holding_types/tribe_grass.dds"
+
+# Nomadic Hold
+nomadic_01 = {
+	construction_time = slow_construction_time
+
+	asset = {
+		type = pdxmesh
+		names = {
+			building_western_tribal_01_a_mesh
+		}
+		illustration = @holding_illustration_grass
+		soundeffect = { soundeffect = "event:/SFX/Ambience/3DMapEmitters/Holdings/City/tribal_city" soundparameter = { "Tier" = 0 } }
+	}
+	asset = {
+		type = pdxmesh
+		names = {
+			"building_mena_tribal_01_a_mesh"
+		}
+		graphical_cultures = { arabic_group_building_gfx berber_group_building_gfx }
+		illustration = @holding_illustration_grass
+		soundeffect = { soundeffect = "event:/SFX/Ambience/3DMapEmitters/Holdings/City/tribal_city" soundparameter = { "Tier" = 0 } }
+	}
+	asset = {
+		type = pdxmesh
+		names = {
+			"building_steppe_tribal_01_a_mesh"
+		}
+		graphical_cultures = { steppe_building_gfx }
+		illustration = @holding_illustration_grass
+		soundeffect = { soundeffect = "event:/SFX/Ambience/3DMapEmitters/Holdings/City/tribal_city" soundparameter = { "Tier" = 0 } }
+	}
+	asset = {
+		type = pdxmesh
+		names = {
+			"building_india_tribal_01_a_mesh"
+		}
+		graphical_cultures = { indian_building_gfx }
+		illustration = @holding_illustration_grass
+		soundeffect = { soundeffect = "event:/SFX/Ambience/3DMapEmitters/Holdings/City/tribal_city" soundparameter = { "Tier" = 0 } }
+	}
+	asset = {
+		type = pdxmesh
+		names = {
+			"building_african_tribal_01_a_mesh"
+		}
+		graphical_cultures = { african_building_gfx }
+		illustration = @holding_illustration_grass
+		soundeffect = { soundeffect = "event:/SFX/Ambience/3DMapEmitters/Holdings/City/tribal_city" soundparameter = { "Tier" = 0 } }
+	}
+
+	is_enabled = {
+		building_requirement_nomadic = yes
+	}
+	can_construct_potential = {
+		always = yes	#Tribes are set at game start.
+	}
+	
+	cost_prestige = 0
+	cost_gold = 0
+	
+	levy = 10
+	garrison = 40
+	province_modifier = {
+		monthly_income = 0.1
+		fort_level = 1
+	}
+
+	type_icon = "icon_building_longhouses.dds"
+
+	ai_value = {
+		base = 1
+	}
+}

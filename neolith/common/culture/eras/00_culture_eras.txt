@@ -1,0 +1,21 @@
+﻿
+culture_era_mesolithic = {
+	year = 0
+}
+
+culture_era_neolithic = {	
+	year = 2000
+	invalid_for_government = nomadic_government
+}
+
+culture_era_chalcolithic = {
+	year = 2500
+	invalid_for_government = tribal_government
+	invalid_for_government = nomadic_government
+}
+
+culture_era_bronze_age = {
+	year = 3000
+	invalid_for_government = tribal_government
+	invalid_for_government = nomadic_government
+}

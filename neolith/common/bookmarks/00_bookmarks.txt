@@ -1,0 +1,45 @@
+﻿bm_4000b = {
+	start_date = 1000.1.1
+	is_playable = yes
+
+	# Halfdan Whiteshirt (York) ID: 163112
+	character = {
+		name = "bookmark_northmen_halfdan_whiteshirt"
+		dynasty = 7514
+		dynasty_splendor_level = 1
+		type = male
+		birth = 828.1.1
+		title = d_york
+		government = feudal_government
+		culture = norse
+		religion = norse_pagan
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 163112
+		position = { 700 620 }
+
+		animation = disapproval
+	}
+}
+
+bm_3000b = {
+	start_date = 2000.1.1
+	is_playable = yes
+
+	# Halfdan Whiteshirt (York) ID: 163112
+	character = {
+		name = "bookmark_northmen_halfdan_whiteshirt"
+		dynasty = 7514
+		dynasty_splendor_level = 1
+		type = male
+		birth = 828.1.1
+		title = d_york
+		government = feudal_government
+		culture = norse
+		religion = norse_pagan
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 163112
+		position = { 700 620 }
+
+		animation = disapproval
+	}
+}

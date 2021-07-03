@@ -1,0 +1,408 @@
+﻿# Accepted categories are: governments, cultures, culture_groups, faiths, religions
+# A Flavorization will apply if ALL specified categories have ANY of their entries
+# represented in the character/title
+# So for example:
+# governments = { feudal_government }
+# culture_groups = { mongolic_group central_germanic_group }
+# religions = { christianity_religion }
+# cultures = { norse }
+# faiths = { catholicism }
+# For this to apply a character MUST BE feudal, AND must also be EITHER altaic OR germanic
+# priority is used to determine priority, if they are the same then the LAST will be selected,
+# and honorifics will be prefered over landed titles. Default priority is 1
+# If a flavorization does not have a tier it can apply to all tiers of characters, too many non-tiered
+# flavorizations is bad for performance though, YOU HAVE BEEN WARNED!
+# 'top_liege = no' means that its the holder of the title causing the honorific that is tested for
+# the various categories, so for a prince it is the king that is tested, for a queen mother it is her son
+# if this is not specified ( or 'top_liege = yes' the default ) then it is the top liege of that character
+# that is tested, this means that most title flavor comes from the top liege of the title not the holder
+
+#sultan = { #Example
+#	gender = male
+#	special = holder
+#	tier = kingdom
+	#	governments = { feudal_government clan_government }
+#	religions = { islam_religion }
+#}
+
+#############################################
+
+count_independent = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	only_independent = yes
+	priority = 14
+}
+count_independent_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	only_independent = yes
+	priority = 14
+}
+county_independent = {
+	type = title
+	tier = barony
+	only_independent = yes
+	priority = 14
+}
+
+#Default Tribal tiers
+baron_tribal_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	priority = 6
+	top_liege = no
+	governments = { tribal_government }
+}
+baron_tribal_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	priority = 6
+	top_liege = no
+	governments = { tribal_government }
+}
+barony_tribal = {
+	type = title
+	tier = barony
+	top_liege = no
+	priority = 6
+	governments = { tribal_government }
+}
+count_tribal_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 16
+	top_liege = no
+	governments = { tribal_government }
+}
+count_tribal_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 16
+	top_liege = no
+	governments = { tribal_government }
+}
+county_tribal = {
+	type = title
+	tier = county
+	top_liege = no
+	priority = 16
+	governments = { tribal_government }
+}
+duke_tribal_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 26
+	top_liege = no
+	governments = { tribal_government }
+}
+duke_tribal_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 26
+	top_liege = no
+	governments = { tribal_government }
+}
+duchy_tribal = {
+	type = title
+	tier = duchy
+	top_liege = no
+	priority = 26
+	governments = { tribal_government }
+}
+king_tribal_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 46
+	top_liege = no
+	governments = { tribal_government }
+}
+king_tribal_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 46
+	top_liege = no
+	governments = { tribal_government }
+}
+kingdom_tribal = {
+	type = title
+	tier = kingdom
+	top_liege = no
+	priority = 46
+	governments = { tribal_government }
+}
+emperor_tribal_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 101
+	top_liege = no
+	governments = { tribal_government }
+}
+emperor_tribal_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 101
+	top_liege = no
+	governments = { tribal_government }
+}
+empire_tribal = {
+	type = title
+	tier = empire
+	top_liege = no
+	priority = 101
+	governments = { tribal_government }
+}
+
+#Default Nomadic tiers
+baron_tribal_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	priority = 6
+	top_liege = no
+	governments = { tribal_government }
+}
+baron_nomadic_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	priority = 6
+	top_liege = no
+	governments = { nomadic_government }
+}
+barony_nomadic = {
+	type = title
+	tier = barony
+	top_liege = no
+	priority = 6
+	governments = { nomadic_government }
+}
+count_nomadic_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 16
+	top_liege = no
+	governments = { nomadic_government }
+}
+count_nomadic_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 16
+	top_liege = no
+	governments = { nomadic_government }
+}
+county_nomadic = {
+	type = title
+	tier = county
+	top_liege = no
+	priority = 16
+	governments = { nomadic_government }
+}
+duke_nomadic_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 26
+	top_liege = no
+	governments = { nomadic_government }
+}
+duke_nomadic_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 26
+	top_liege = no
+	governments = { nomadic_government }
+}
+duchy_nomadic = {
+	type = title
+	tier = duchy
+	top_liege = no
+	priority = 26
+	governments = { nomadic_government }
+}
+king_nomadic_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 46
+	top_liege = no
+	governments = { nomadic_government }
+}
+king_nomadic_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 46
+	top_liege = no
+	governments = { nomadic_government }
+}
+kingdom_nomadic = {
+	type = title
+	tier = kingdom
+	top_liege = no
+	priority = 46
+	governments = { nomadic_government }
+}
+emperor_nomadic_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 101
+	top_liege = no
+	governments = { nomadic_government }
+}
+emperor_nomadic_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 101
+	top_liege = no
+	governments = { nomadic_government }
+}
+empire_nomadic = {
+	type = title
+	tier = empire
+	top_liege = no
+	priority = 101
+	governments = { nomadic_government }
+}
+
+#############################################
+#Fallback titles (should ideally never appear):
+
+baron = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	priority = 4
+}
+baron_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	priority = 4
+}
+barony = {
+	type = title
+	tier = barony
+	priority = 4
+}
+
+count = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 15
+}
+count_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 15
+}
+county = {
+	type = title
+	tier = county
+	priority = 15
+}
+
+duke = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 25
+}
+duke_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 25
+}
+duchy = {
+	type = title
+	tier = duchy
+	priority = 25
+}
+
+king = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 45
+}
+king_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 45
+}
+kingdom = {
+	type = title
+	tier = kingdom
+	priority = 45
+}
+
+emperor = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 100
+}
+emperor_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 100
+}
+empire = {
+	type = title
+	tier = empire
+	priority = 100
+}

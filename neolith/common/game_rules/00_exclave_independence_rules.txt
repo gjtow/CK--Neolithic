@@ -1,0 +1,46 @@
+﻿max_exclave_naval_distance = {
+	default = 175_max_exclave_naval_distance
+
+	default_max_exclave_naval_distance = {
+	}
+	
+	half_max_exclave_naval_distance = {
+	}
+	
+	quarter_max_exclave_naval_distance = {
+	}
+
+	eighth_max_exclave_naval_distance = {
+	}
+
+	175_max_exclave_naval_distance = {
+	}
+
+	100_max_exclave_naval_distance = {
+	}
+	
+	0_max_exclave_naval_distance = {
+	}
+}
+
+exclave_independence_trigger = {
+	default = default_exclave_independence_trigger
+
+	default_exclave_independence_trigger = {
+	}
+	
+	20_years_exclave_independence_trigger = {
+	}
+
+	10_years_exclave_independence_trigger = {
+	}
+	
+	5_years_exclave_independence_trigger = {
+	}
+
+	1_year_exclave_independence_trigger = {
+	}
+
+	immediate_exclave_independence_trigger = {
+	}
+}
