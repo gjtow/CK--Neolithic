@@ -1,0 +1,254 @@
+#k_ireland
+##d_meath ###################################
+###c_dublin
+28 = {	#DUBLIN
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+29 = {	#WICKLOW
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+30 = {	#KILDARE
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+31 = {	#TIRM
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+32 = {	#DROGHEDA
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+
+###c_athlone
+34 = {	#ATHLONE
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+33 = {	#BIRR
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+36 = {	#UISNEACH
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+
+##d_ulster ###################################
+###c_ulster
+15 = {	#DOWNPATRICK
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+13 = {	#SLEMISH
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+14 = {	#CARRICKFERGUS
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+
+###c_oriel
+18 = {	#DUNDALK
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+17 = {	#ARMAGH
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+19 = {	#ARDEE
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+
+###c_ailech
+9 = {	#DONEGAL
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+10 = {	#RAPHOE
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+11 = {	#FAHAN
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+12 = {	#DERRY
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+
+##d_connacht ###################################
+###c_connacht
+20 = {	#GALWAY
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+21 = {	#CASTLEBAR
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+22 = {	#SLIGO
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+23 = {	#ATHENRY
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+
+###c_breifne
+24 = {	#DROMAHAIR
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+25 = {	#BELCOO
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+26 = {	#LONGFORD
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+27 = {	#CAVAN
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+
+##d_leinster ###################################
+###c_leinster
+37 = {	#WEXFORD
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+38 = {	#ENNISCORTHY
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+39 = {	#FERNS
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+40 = {	#CARLOW
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+
+###c_ossory
+43 = {	#GOWRAN
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+41 = {	#KILKENNY
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+42 = {	#ATHY
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+44 = {	#CARRICK
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+
+##d_munster ###################################
+###c_thomond
+45 = {	#LIMERICK
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+46 = {	#ENNIS
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+47 = {	#NENAGH
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+48 = {	#ROSCREA
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+
+###c_ormond
+49 = {	#WATERFORD
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+50 = {	#EMLY
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+51 = {	#CLONMEL
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+
+###c_desmond
+52 = {	#TRALEE
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+53 = {	#CORK
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+54 = {	#KINSALE
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+16 = {	#BALTIMORE
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}

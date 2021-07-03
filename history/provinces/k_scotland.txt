@@ -1,0 +1,418 @@
+#k_scotland
+##d_albany ###################################
+###c_gowrie
+1741 = {	#Perth / b_st_johnston
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1742 = {	#Coupar Angus
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1745 = {	#Crieff
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_fife
+1724 = {	#Dunfermline
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1725 = {	#Kircaldy / Kirckaldy
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1726 = {	#St Andrews
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_strathearn
+1734 = {	#Stirling
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1735 = {	#Callander
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1736 = {	#Clackmannan
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_atholl
+1743 = {	#Dunkeld
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1744 = {	#Aberfeldy
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_angus
+1720 = {	#Dundee
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1721 = {	#Kirriemuir
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1723 = {	#Mar
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_mearns
+1718 = {	#Aberdeen
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1719 = {	#Kincardine
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1722 = {	#Ballater
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+##d_the_isles ###################################
+###c_isle_of_man
+1698 = {	#Castletown
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1699 = {	#Ramsey
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+##d_galloway ###################################
+###c_lennox
+1695 = {	#Dumbarton
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1696 = {	#Glasgow
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1697 = {	#Meneith / Menteith
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_galloway
+1682 = {	#Kilcudbrite
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1683 = {	#Sanquhar
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1684 = {	#Wigtown
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_carrick
+1680 = {	#Maybole
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1685 = {	#Girvan
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_ayrshire
+1686 = {	#Kyle
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1687 = {	#Strathgrythe
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1688 = {	#Cunningham
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_annandale
+1679 = {	#Annan
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1681 = {	#Dumfries
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+##d_western_isles ###################################
+###c_inner_hebrides
+1689 = {	#Islay
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+1690 = {	#Arran
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1691 = {	#Mull
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_outer_hebrides
+1692 = {	#Skye
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+1693 = {	#Lewis
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1694 = {	#The Uists
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_argyll
+1700 = {	#Kilmarten
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+1701 = {	#Glencoe
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1702 = {	#Lomond
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+35 = {		#ARDNAMURCHON
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+##d_lothian ###################################
+###c_lothian
+1727 = {	#Edinburgh
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1728 = {	#Haddington
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1729 = {	#Galashiels
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1730 = {	#Penicuick
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_dunbar
+1676 = {	#Dunbar
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1675 = {	#Berwick
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_teviotdale
+1677 = {	#Kelso
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1678 = {	#Jedburgh
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1740 = {	#Selkirk
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_linlithgowshire
+1731 = {	#Linlithgow
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1732 = {	#Queensferry
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1733 = {	#Falkirk
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_lanarkshire
+1737 = {	#Lanark
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1738 = {	#Cadyou
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1739 = {	#Biggar
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+##d_moray ###################################
+###c_moray
+1715 = {	#Elgin
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1716 = {	#Keith
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1717 = {	#Garioch
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_ross
+1703 = {	#Dingwall
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+1704 = {	#Gairloch
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_buchan
+1712 = {	#Banff
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1713 = {	#Mortlach
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1714 = {	#Peterhead
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_sutherland
+1705 = {	#Dornoch
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+1706 = {	#Durness
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_caithness
+1707 = {	#Thurso
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+1708 = {	#Wick
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+
+###c_inverness
+1709 = {	#Inverness
+	culture = auskare
+	religion = insular_celtic
+	holding = nomadic_holding
+}
+1710 = {	#Badenoch
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
+1711 = {	#Glenfinnan
+	culture = auskare
+	religion = catholic
+	holding = nomadic_holding
+}
