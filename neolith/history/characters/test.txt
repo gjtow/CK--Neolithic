@@ -1,0 +1,8 @@
+﻿test1 = {
+	name = "Matt"
+	dynasty_house = house_british_isles_wessex
+	religion = "catholic"
+	culture = auskare
+	trait = dummy
+	1.1.1 = { birth = yes }
+}
